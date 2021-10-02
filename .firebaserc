@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "todolist-dc4e3",
+    "todolist": "todolist-365b1"
+  },
+  "targets": {}
+}

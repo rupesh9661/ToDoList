@@ -1,0 +1,25 @@
+
+.containerdiv{
+    max-width: 500px;
+    min-height: 400px;
+    margin: 50px 300px;
+    padding: 20px;
+    background-color: antiquewhite;
+    position: relative;
+    border-radius: 20px;
+}
+ul li{
+    list-style-type: none;
+    margin: 10px;
+   
+   
+}
+.btn-position{
+    position: absolute;
+    right: 20px;
+}
+@media(max-width:600px){
+    .containerdiv{
+        margin: 20px 10px;
+    }
+}
